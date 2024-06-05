@@ -6,7 +6,7 @@
 - Entrada y Salida no interactivas. 
 - Libreria fstream.
 - Variables de flujos.
-- Datos Estructurados.
+- Datos Estructurados (introduccion).
     - Estructuras
     - Uniones
 
@@ -15,3 +15,10 @@
 - Uso de variables de flujo fstream
 - funciones read() y write()
 - modos de apertura de archivos
+
+##### Clase N° 3: Estructuras, uniones y funciones.
+
+- Declaracion y operaciones con estructuras
+- Declaracion y operaciones con uniones
+- Funciones, declaracion e implementacion.
+- Entrada de datos por argumentos de consola
