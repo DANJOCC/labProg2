@@ -43,6 +43,10 @@ using namespace std;
 
 int main(){
 
+    /*
+        Forma de utilizar un mismo espacio de memoria para mas de una variable
+    */
+
     union {
         int z;
         int a;
@@ -54,7 +58,8 @@ int main(){
 
     cout<<a<<endl;
     cout<<z<<endl;
-    Marca u;
+
+    Marca u; //declaracion de una variable del tipo Marca
 
     u.a='a';
 
