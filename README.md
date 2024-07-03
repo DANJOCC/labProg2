@@ -22,3 +22,15 @@
 - Declaracion y operaciones con uniones
 - Funciones, declaracion e implementacion.
 - Entrada de datos por argumentos de consola
+
+##### Clase N° 4: Más funciones.
+
+- Diferentes formas de declarar funciones.
+- Paso por parametros y referencias
+- Sobrecarga de funciones.
+
+##### Clase N° 5: Punteros, modulos y clases.
+
+- Declaracion y uso de punteros.
+- Declaracion y uso de clases.
+- Separacion de archivos por modulos.
