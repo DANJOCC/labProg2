@@ -34,3 +34,12 @@
 - Declaracion y uso de punteros.
 - Declaracion y uso de clases.
 - Separacion de archivos por modulos.
+
+##### Clase N° 6: Introduccion a la arquitectura MVC y sentencia try-catch.
+
+- Estructura de carpetas.
+- Definicion de datos.
+- Defincion e implementacion de funciones.
+- Uso practico de punteros, clases y enums.
+- Sentencias try-catch. Uso e implementación.
+- Sentencias try-catch anidadas.
